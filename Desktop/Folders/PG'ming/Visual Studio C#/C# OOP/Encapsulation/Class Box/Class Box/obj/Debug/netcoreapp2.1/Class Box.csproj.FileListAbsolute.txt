@@ -1,0 +1,11 @@
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Class Box\Class Box\obj\Debug\netcoreapp2.1\Class Box.csprojAssemblyReference.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Class Box\Class Box\obj\Debug\netcoreapp2.1\Class Box.csproj.CoreCompileInputs.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Class Box\Class Box\obj\Debug\netcoreapp2.1\Class Box.AssemblyInfoInputs.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Class Box\Class Box\obj\Debug\netcoreapp2.1\Class Box.AssemblyInfo.cs
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Class Box\Class Box\bin\Debug\netcoreapp2.1\Class Box.deps.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Class Box\Class Box\bin\Debug\netcoreapp2.1\Class Box.runtimeconfig.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Class Box\Class Box\bin\Debug\netcoreapp2.1\Class Box.runtimeconfig.dev.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Class Box\Class Box\bin\Debug\netcoreapp2.1\Class Box.dll
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Class Box\Class Box\bin\Debug\netcoreapp2.1\Class Box.pdb
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Class Box\Class Box\obj\Debug\netcoreapp2.1\Class Box.dll
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Class Box\Class Box\obj\Debug\netcoreapp2.1\Class Box.pdb

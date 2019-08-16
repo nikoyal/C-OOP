@@ -1,0 +1,11 @@
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\SmartPhone\SmartPhone\bin\Debug\netcoreapp2.1\SmartPhone.deps.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\SmartPhone\SmartPhone\bin\Debug\netcoreapp2.1\SmartPhone.runtimeconfig.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\SmartPhone\SmartPhone\bin\Debug\netcoreapp2.1\SmartPhone.runtimeconfig.dev.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\SmartPhone\SmartPhone\bin\Debug\netcoreapp2.1\SmartPhone.dll
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\SmartPhone\SmartPhone\bin\Debug\netcoreapp2.1\SmartPhone.pdb
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\SmartPhone\SmartPhone\obj\Debug\netcoreapp2.1\SmartPhone.csprojAssemblyReference.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\SmartPhone\SmartPhone\obj\Debug\netcoreapp2.1\SmartPhone.csproj.CoreCompileInputs.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\SmartPhone\SmartPhone\obj\Debug\netcoreapp2.1\SmartPhone.AssemblyInfoInputs.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\SmartPhone\SmartPhone\obj\Debug\netcoreapp2.1\SmartPhone.AssemblyInfo.cs
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\SmartPhone\SmartPhone\obj\Debug\netcoreapp2.1\SmartPhone.dll
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\SmartPhone\SmartPhone\obj\Debug\netcoreapp2.1\SmartPhone.pdb

@@ -1,0 +1,11 @@
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\IPerson\IPerson\bin\Debug\netcoreapp2.1\IPerson.deps.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\IPerson\IPerson\bin\Debug\netcoreapp2.1\IPerson.runtimeconfig.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\IPerson\IPerson\bin\Debug\netcoreapp2.1\IPerson.runtimeconfig.dev.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\IPerson\IPerson\bin\Debug\netcoreapp2.1\IPerson.dll
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\IPerson\IPerson\bin\Debug\netcoreapp2.1\IPerson.pdb
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\IPerson\IPerson\obj\Debug\netcoreapp2.1\IPerson.csprojAssemblyReference.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\IPerson\IPerson\obj\Debug\netcoreapp2.1\IPerson.csproj.CoreCompileInputs.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\IPerson\IPerson\obj\Debug\netcoreapp2.1\IPerson.AssemblyInfoInputs.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\IPerson\IPerson\obj\Debug\netcoreapp2.1\IPerson.AssemblyInfo.cs
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\IPerson\IPerson\obj\Debug\netcoreapp2.1\IPerson.dll
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\IPerson\IPerson\obj\Debug\netcoreapp2.1\IPerson.pdb

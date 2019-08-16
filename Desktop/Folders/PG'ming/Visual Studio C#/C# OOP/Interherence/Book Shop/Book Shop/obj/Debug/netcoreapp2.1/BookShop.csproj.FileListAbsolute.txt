@@ -1,0 +1,11 @@
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Book Shop\Book Shop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Book Shop\Book Shop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Book Shop\Book Shop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Book Shop\Book Shop\bin\Debug\netcoreapp2.1\BookShop.dll
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Book Shop\Book Shop\bin\Debug\netcoreapp2.1\BookShop.pdb
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Book Shop\Book Shop\obj\Debug\netcoreapp2.1\BookShop.csprojAssemblyReference.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Book Shop\Book Shop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Book Shop\Book Shop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Book Shop\Book Shop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Book Shop\Book Shop\obj\Debug\netcoreapp2.1\BookShop.dll
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Book Shop\Book Shop\obj\Debug\netcoreapp2.1\BookShop.pdb

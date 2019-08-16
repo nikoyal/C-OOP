@@ -1,0 +1,11 @@
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Shopping Spree\Shopping Spree\bin\Debug\netcoreapp2.1\Shopping Spree.deps.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Shopping Spree\Shopping Spree\bin\Debug\netcoreapp2.1\Shopping Spree.runtimeconfig.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Shopping Spree\Shopping Spree\bin\Debug\netcoreapp2.1\Shopping Spree.runtimeconfig.dev.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Shopping Spree\Shopping Spree\bin\Debug\netcoreapp2.1\Shopping Spree.dll
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Shopping Spree\Shopping Spree\bin\Debug\netcoreapp2.1\Shopping Spree.pdb
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Shopping Spree\Shopping Spree\obj\Debug\netcoreapp2.1\Shopping Spree.csprojAssemblyReference.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Shopping Spree\Shopping Spree\obj\Debug\netcoreapp2.1\Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Shopping Spree\Shopping Spree\obj\Debug\netcoreapp2.1\Shopping Spree.AssemblyInfoInputs.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Shopping Spree\Shopping Spree\obj\Debug\netcoreapp2.1\Shopping Spree.AssemblyInfo.cs
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Shopping Spree\Shopping Spree\obj\Debug\netcoreapp2.1\Shopping Spree.dll
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Encapsulation\Shopping Spree\Shopping Spree\obj\Debug\netcoreapp2.1\Shopping Spree.pdb

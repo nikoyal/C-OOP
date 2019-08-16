@@ -1,0 +1,11 @@
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Animal copy paste\Animal copy paste\bin\Debug\netcoreapp2.1\Animalcopypaste.deps.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Animal copy paste\Animal copy paste\bin\Debug\netcoreapp2.1\Animalcopypaste.runtimeconfig.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Animal copy paste\Animal copy paste\bin\Debug\netcoreapp2.1\Animalcopypaste.runtimeconfig.dev.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Animal copy paste\Animal copy paste\bin\Debug\netcoreapp2.1\Animalcopypaste.dll
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Animal copy paste\Animal copy paste\bin\Debug\netcoreapp2.1\Animalcopypaste.pdb
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Animal copy paste\Animal copy paste\obj\Debug\netcoreapp2.1\Animalcopypaste.csprojAssemblyReference.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Animal copy paste\Animal copy paste\obj\Debug\netcoreapp2.1\Animalcopypaste.csproj.CoreCompileInputs.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Animal copy paste\Animal copy paste\obj\Debug\netcoreapp2.1\Animalcopypaste.AssemblyInfoInputs.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Animal copy paste\Animal copy paste\obj\Debug\netcoreapp2.1\Animalcopypaste.AssemblyInfo.cs
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Animal copy paste\Animal copy paste\obj\Debug\netcoreapp2.1\Animalcopypaste.dll
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interherence\Animal copy paste\Animal copy paste\obj\Debug\netcoreapp2.1\Animalcopypaste.pdb

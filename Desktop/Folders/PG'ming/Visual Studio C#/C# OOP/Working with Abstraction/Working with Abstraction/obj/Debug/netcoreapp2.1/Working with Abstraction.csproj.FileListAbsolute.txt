@@ -1,0 +1,11 @@
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Working with Abstraction\Working with Abstraction\bin\Debug\netcoreapp2.1\Working with Abstraction.deps.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Working with Abstraction\Working with Abstraction\bin\Debug\netcoreapp2.1\Working with Abstraction.runtimeconfig.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Working with Abstraction\Working with Abstraction\bin\Debug\netcoreapp2.1\Working with Abstraction.runtimeconfig.dev.json
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Working with Abstraction\Working with Abstraction\bin\Debug\netcoreapp2.1\Working with Abstraction.dll
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Working with Abstraction\Working with Abstraction\bin\Debug\netcoreapp2.1\Working with Abstraction.pdb
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Working with Abstraction\Working with Abstraction\obj\Debug\netcoreapp2.1\Working with Abstraction.csprojAssemblyReference.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Working with Abstraction\Working with Abstraction\obj\Debug\netcoreapp2.1\Working with Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Working with Abstraction\Working with Abstraction\obj\Debug\netcoreapp2.1\Working with Abstraction.AssemblyInfoInputs.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Working with Abstraction\Working with Abstraction\obj\Debug\netcoreapp2.1\Working with Abstraction.AssemblyInfo.cs
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Working with Abstraction\Working with Abstraction\obj\Debug\netcoreapp2.1\Working with Abstraction.dll
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Working with Abstraction\Working with Abstraction\obj\Debug\netcoreapp2.1\Working with Abstraction.pdb

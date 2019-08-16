@@ -1,0 +1,4 @@
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\Military Elit\Military Elit\obj\Debug\netcoreapp2.1\MilitaryElit.csprojAssemblyReference.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\Military Elit\Military Elit\obj\Debug\netcoreapp2.1\MilitaryElit.csproj.CoreCompileInputs.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\Military Elit\Military Elit\obj\Debug\netcoreapp2.1\MilitaryElit.AssemblyInfoInputs.cache
+C:\Users\AssemblyBoy\Desktop\Folders\PG'ming\Visual Studio C#\C# OOP\Interfaces and abstraction\Military Elit\Military Elit\obj\Debug\netcoreapp2.1\MilitaryElit.AssemblyInfo.cs
